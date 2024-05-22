@@ -1,0 +1,14 @@
+css 
+
+margin :- space outside the border.
+border :- the box in between margin and padding .
+padding :- space between border and content.
+content :-  the actual content which surrounded by padding, border and margin.
+
+these all margin,padding,border and content all combined together to form a css box model.
+
+css box tells us :- 
+1. how much space element takes up
+2. how far away it is from other element.
+
+
